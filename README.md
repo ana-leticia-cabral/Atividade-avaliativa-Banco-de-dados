@@ -1,2 +1,2 @@
-# Atividade avaliativa Banco de dados
-Atividade: MER - Modelo Entidade Relacionamento.  Abril 2025
+# Atividade avaliativa de Banco de dados - Modelo Entidade Relacionamento
+![atividade avaliativa](atividade.png)
